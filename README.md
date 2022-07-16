@@ -18,7 +18,7 @@ python3 -m pip install --upgrade Pillow
 and
 
 ```shell
-python3 -m pip install --upgrade BeautifulSoup
+python3 -m pip install --upgrade BeautifulSoup4
 ```
 
 If an error occurs, use google
