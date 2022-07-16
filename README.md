@@ -33,3 +33,13 @@ To run it:
 python3 main.py
 ```
 - Wait a few seconds. An image should pop up, showing the rendered image. It is also saved to a file called `output.png`.
+
+
+
+# Example
+Here i am putting the server ip as `hypixel.net`, and setting the server name as `Hypikle`
+<img src="./resources/images/example/HypikleExample.png">
+
+Here is the ouput after running the file
+
+<img src="./resources/images/example/HypikleOutput.png">
