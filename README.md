@@ -7,18 +7,23 @@ Basically, using the [Minecraft Server Status API](https://api.mcsrvstat.us), an
 # How to run it?
 Prerequisites:
 - Python 3+
-- Two python libraries, `Pillow` and `BeautifulSoup`
+- Three python libraries, `Pillow`, `BeautifulSoup`, and 'Requests'.
 
 To install the libraries, go to the command line and type
 
+Pillow:
 ```shell
 python3 -m pip install --upgrade Pillow
 ```
 
-and
-
+BeautifulSoup:
 ```shell
 python3 -m pip install --upgrade BeautifulSoup4
+```
+
+Requests:
+```shell
+python3 -m pip install --upgrade requests
 ```
 
 If an error occurs, use google
